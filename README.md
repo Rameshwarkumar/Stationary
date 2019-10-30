@@ -2,3 +2,4 @@
 Paper
 Register
 Pen
+Copy
